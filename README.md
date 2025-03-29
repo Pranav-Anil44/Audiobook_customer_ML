@@ -59,4 +59,4 @@ Implemented balancing techniques to improve model performance.
 If you have any questions, feel free to reach out:
 
 GitHub: Pranav-Anil44
-Email: pranavanilkumar44@gmail.com
+Email: pranavanilkumar45@gmail.com
